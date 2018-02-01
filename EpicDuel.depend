@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517490985 source:c:\users\light\documents\epicduel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+
